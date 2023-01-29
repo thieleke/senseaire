@@ -7,9 +7,11 @@ See the senseaire.yaml file for the default GPIO pin usage and/or modify as nece
 
 
 # Example secrets.yaml file
+```
 ssid: MY_WIFI_NAME
 wifi_password: hunter2
 mqtt_server: 192.168.0.1
 mqtt_username: senseair
 mqtt_password: monkey123
 ntp_server: pool.ntp.org
+```
